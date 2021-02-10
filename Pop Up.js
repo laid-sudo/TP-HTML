@@ -3,7 +3,7 @@
 	<head>
 	  <meta charset="UTF-8">
       <script> 
-      function showCity(){ alert (villeCourante);}
+      function showCity(){ console.log (villeCourante);}
       let villeCourante ="Villeurbanne"
     
     </script>
